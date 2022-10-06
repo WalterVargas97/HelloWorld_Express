@@ -1,0 +1,22 @@
+{
+  "name": "helloworld_express",
+  "version": "1.0.0",
+  "description": "New repo for class with sensei",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wally1997/HelloWorld_Express.git"
+  },
+  "author": "Walter Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wally1997/HelloWorld_Express/issues"
+  },
+  "homepage": "https://github.com/wally1997/HelloWorld_Express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
